@@ -1,4 +1,4 @@
-pandas version: 2.2.2
+pandas version: 24.1.2
 matplotlib version: 3.9.1
 seaborn version: 0.13.2
 scikit-learn version: 1.5.1
