@@ -22,7 +22,7 @@ st.write("""
 
 # Sidebar untuk input data
 st.sidebar.header('Input Data')
-pclass = st.sidebar.selectbox('Class', [1, 2, 3], index=0)
+pclass = st.sidebar.selectbox('Pclass', [1, 2, 3], index=0)
 age = st.sidebar.slider('Age', min_value=0, max_value=100, value=30, step=1)
 fare = st.sidebar.slider('Fare', min_value=0.0, max_value=512.3292, value=70.0, step=0.1)
 sex = st.sidebar.selectbox('Sex', ['Male (0)', 'Female (1)'], index=0)
