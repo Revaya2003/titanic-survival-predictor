@@ -80,5 +80,5 @@ st.markdown("""
     - **Sumber Data**: Titanic - Machine Learning from Disaster Dataset
     - **Pengembang**: Revaya Rizqia Pasya
     - **Versi**: 1.0
-    - **Kontak**: revayarizqia@gmmail.com
+    - **Kontak**: revayarizqia@gmail.com
 """)
